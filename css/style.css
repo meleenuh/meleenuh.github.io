@@ -1,0 +1,47 @@
+body {
+  max-width: 3000px;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+}
+
+p {
+  color: violet;
+}
+
+h3 {
+  color: white;
+}
+
+
+.red-text {
+  color: darkred;
+}
+
+#one {
+background-color: white;
+margin: auto;
+  margin-bottom: 50px;
+}
+
+#two {
+  float: left;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+#three {
+float: right;
+margin-right: 50px;
+margin-bottom: 50px;
+}
+
+#four {
+float: center;
+margin-right: 50px;
+margin-bottom: 50px;
+}
